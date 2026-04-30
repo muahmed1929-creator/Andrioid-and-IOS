@@ -60,3 +60,7 @@ lib/
     ├── settings/    # App settings and theme toggles
     └── sync/        # Offline-first sync logic
 ```
+
+## 🔗 Related Links
+
+- [PC bottleneckckeck](https://PCbottleneckckeck.com)
