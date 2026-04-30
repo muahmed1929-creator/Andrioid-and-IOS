@@ -61,6 +61,6 @@ lib/
     └── sync/        # Offline-first sync logic
 ```
 
-## 🔗 Related Links
+## 🔗 Useful Links
 
-- [PC bottleneckckeck](https://PCbottleneckckeck.com)
+- [PC Bottleneck Check](https://pcbottleneckckeck.com/)
